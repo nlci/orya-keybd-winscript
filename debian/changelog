@@ -1,0 +1,11 @@
+kmfl-keyboard-oriya (1.1.1) unstable; urgency=low
+
+  * Refactored packaging.
+
+ -- Indic Dev <indic_dev@sil.org>  Wed, 13 Mar 2013 08:34:20 -0600
+
+kmfl-keyboard-oriya (1.1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Indic Dev <indic_dev@sil.org>  Thu, 07 Mar 2013 11:40:44 -0700

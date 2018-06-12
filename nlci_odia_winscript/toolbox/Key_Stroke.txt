@@ -1,0 +1,481 @@
+\_sh v3.0  400  Langua
+
+\ver ଅ
+\keys a
+\com
+
+\ver ଆ
+\keys A
+\com
+
+\ver ଇ
+\keys i
+\com
+
+\ver ଈ
+\keys I
+\com
+
+\ver ଉ
+\keys u
+\com
+
+\ver ଊ
+\keys U
+\com
+
+\ver ଋ
+\keys r
+\com
+
+\ver ଏ
+\keys e
+\com
+
+\ver ଐ
+\keys Y
+\com
+
+\ver ଓ
+\keys o
+\com
+
+\ver ଓ୍ଵ
+\keys v
+\com Oriya letter o and virama and va
+
+\ver ଓ୍ଵଁ
+\keys v S
+\com
+
+\ver ଔ
+\keys V
+\com
+
+\ver କ
+\keys k
+\com
+
+\ver କଁ
+\keys k S
+\com
+
+\ver କଂ
+\keys k M
+\com
+
+\ver କଃ
+\keys k H
+\com
+
+\ver କ଼
+\keys k f
+\com
+
+\ver କା
+\keys k A
+\com
+
+\ver କି
+\keys k i
+\com
+
+\ver କୀ
+\keys k I 
+\com
+
+\ver କୁ
+\keys k u 
+\com
+
+\ver କୂ
+\keys k U 
+\com
+
+\ver କୃ
+\keys k R
+\com
+
+\ver କେ
+\keys k e 
+\com
+
+\ver କୋ
+\keys k o
+\com
+
+\ver କୌ
+\keys k V
+\com
+
+\ver କ୍
+\keys k x x
+\com
+
+\ver କ୍କ
+\keys k x k
+\com
+
+\ver କ୍ତ
+\keys k x q
+\com
+
+\ver କ୍ଥ
+\keys k x Q
+\com
+
+\ver କ୍ର
+\keys  k x r 
+\com
+
+\ver କ୍ରୁ
+\keys k x r u
+\com
+
+\ver କ୍ରୋ
+\keys k x r o
+\com
+
+\ver କ୍ଳ
+\keys k x l
+\com
+
+\ver କ୍ସ
+\keys k x s
+\com
+
+\ver ଖ
+\keys K
+\com
+
+\ver ଗ
+\keys g
+\com
+
+\ver ଘ
+\keys G
+\com
+
+\ver ଙ
+\keys W
+\com
+
+\ver ଙ୍କ
+\keys W x k 
+\com
+
+\ver ଙ୍ଖ
+\keys W x K
+\com
+
+\ver ଙ୍ଗ
+\keys W x g
+\com
+
+\ver ଚ
+\keys c
+\com
+
+\ver ଚ୍ଚ
+\keys c x c
+\com
+
+\ver ଛ
+\keys C
+\com
+
+\ver ଜ
+\keys j
+\com
+
+\ver ଜ୍ଞ
+\keys j x w
+\com
+
+\ver ଝ
+\keys J
+\com
+
+\ver ଞ
+\keys w
+\com
+
+\ver ଞ୍ଚ
+\keys w x c 
+\com
+
+\ver ଞ୍ଛ
+\keys w x C
+\com
+
+\ver ଞ୍ଜ 
+\keys w x j 
+\com
+
+\ver ଞ୍ଝ
+\keys w x J
+\com
+
+\ver ଟ
+\keys t
+\com
+
+\ver ଟ୍ଚ
+\keys w x c
+\com
+
+\ver ଟ୍ଟ
+\keys t x t
+\com
+
+\ver ଠ
+\keys T
+\com
+
+\ver ଡ
+\keys d
+\com
+
+\ver ଡ୍ଡ
+\keys d x d
+\com
+
+\ver ଢ
+\keys D
+\com
+
+\ver ଣ
+\keys N
+\com
+
+\ver ଣ୍ଠ
+\keys N x T
+\com
+
+\ver ଣ୍ଡ
+\keys N x d
+\com
+
+\ver ଣ୍ଢ
+\keys N x D
+\com
+
+\ver ତ
+\keys q
+\com
+
+\ver ତ୍ତ
+\keys q x q
+\com
+
+\ver ଥ
+\keys Q
+\com
+
+\ver ଦ
+\keys [
+\com
+
+\ver ଦ୍ଦ
+\keys [ x [
+\com
+
+\ver ଦ୍ଧ
+\keys [ x {
+\com
+
+\ver ଦ୍ଭ
+\keys [ x B
+\com
+
+\ver ଧ
+\keys {
+\com
+
+\ver ନ
+\keys n
+\com
+
+\ver ନ୍ଟ
+\keys n x t
+\com
+
+\ver ନ୍ଥ
+\keys n x Q
+\com
+
+\ver ନ୍ଦ
+\keys n x [
+\com
+
+\ver ନ୍ଧ
+\keys n x {
+\com
+
+\ver ନ୍ନ
+\keys n x n
+\com
+
+\ver ପ
+\keys p
+\com
+
+\ver ପ୍ତ
+\keys p x q
+\com
+
+\ver ଫ
+\keys P
+\com
+
+\ver ବ
+\keys b
+\com
+
+\ver ବ୍ଦ
+\keys b x [
+\com
+
+\ver ବ୍ବ
+\keys b x b
+\com
+
+\ver ଭ
+\keys B
+\com
+
+\ver ମ
+\keys m
+\com
+
+\ver ମ୍ପ
+\keys m x p
+\com
+
+\ver ମ୍ଫ
+\keys m x P
+\com
+
+\ver ମ୍ମ
+\keys m x m
+\com
+
+\ver ଯ
+\keys y
+\com
+
+\ver ର
+\keys r
+\com
+
+\ver ର୍କ
+\keys r x k
+\com
+
+\ver ର୍କୋ
+\keys r x k o
+\com
+
+\ver ଲ
+\keys l
+\com
+
+\ver ଲ୍କ
+\keys l x k
+\com
+
+\ver ଲ୍ପ
+\keys l x p
+\com
+
+\ver ଲ୍ଫ
+\keys l x P
+\com
+
+\ver ଳ
+\keys L
+\com
+
+\ver ଶ
+\keys z
+\com
+
+\ver ଶ୍ଚ
+\keys z x c
+\com
+
+\ver ଷ
+\keys Z
+\com
+
+\ver ଷ୍କ
+\keys Z x k
+\com
+
+\ver ଷ୍ଟ
+\keys Z x t
+\com
+
+\ver ଷ୍ଠ
+\keys Z x T
+\com
+
+\ver ଷ୍ପ
+\keys Z x p
+\com
+
+\ver ଷ୍ଫ
+\keys Z x P
+\com
+
+\ver ସ
+\keys s
+\com
+
+\ver ସ୍କ
+\keys s x k
+\com
+
+\ver ସ୍ଖ
+\keys s x K
+\com
+
+\ver ସ୍ତ
+\keys s x q
+\com
+
+\ver ସ୍ଥ
+\keys s x Q
+\com
+
+\ver ସ୍ପ
+\keys s x p
+\com
+
+\ver ସ୍ଫ
+\keys s x P
+\com
+
+\ver ହ
+\keys h
+\com
+
+\ver ଡ଼
+\keys = d
+\com
+
+\ver ଢ଼
+\keys =  D
+\com
+
+\ver ୟ
+\keys = y
+\com
+
+\ver ୠ
+\keys ^
+\com
+
+\ver ୡ
+\keys _
+\com

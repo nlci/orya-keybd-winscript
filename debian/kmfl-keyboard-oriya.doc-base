@@ -1,0 +1,9 @@
+Document: kmfl-keyboard-oriya
+Title: Keystrokes for Oriya KMFL keyboard
+Author: NLCI
+Abstract: Shows which keys on a keyboard generate which Oriya characters.
+ There are other documentation files beside this one.
+Section: System/Administration
+
+Format: PDF
+Files: /usr/share/doc/kmfl-keyboard-oriya/keys.pdf.gz

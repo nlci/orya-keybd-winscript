@@ -1,0 +1,79 @@
+\+ShProjectSettings 
+\ver 5.0
+\ProgramVersion 1.4 Nov 2004 Windows
+\ProjectPath D:\Own Development\Key Man Files\Oriya Key Stroke Toolbox\Oriya_Keys.prj
+\LockProject 0
+\AutomaticKeyboardSwitching
+\+CorpusSet 
+\WordLstMaxCount 10
+\ConcordanceSearchType 3
+\ConcordanceLimitCount
+\ConcordanceMaxCount 1000
+\ConcordanceOutput lookup.db
+\-CorpusSet
+\LangCtrlHeight 24
+\+fntMarkers 
+\Name MS Sans Serif
+\Size 10
+\-fntMarkers
+\+rundosMarkers 
+\-rundosMarkers
+\placementMain max -1 -1 -1 -1 0 0 792 576
+\+dblst 
+
+\+db D:\Own Development\Key Man Files\Oriya Key Stroke Toolbox\Key_Stroke.txt
+\+wndlst 
+\+wnd 
+\placement max -1 -1 -4 -30 0 0 866 423
+\z 0
+\ViewMarkers
+\widthMarkerArea 50
+\Browse
+\JumpTarget
+\FocusTarget
+\+brflst 
+\FieldEmptyEntry *empty*
+\NoFieldEntry *no field*
+\+brf 
+\mkr ver
+\width 206
+\-brf
+\+brf 
+\mkr keys
+\width 206
+\-brf
+\+brf 
+\mkr com
+\width 571
+\-brf
+\-brflst
+\+ind 
+\mkrPriKey ver
+\srtPriKey Unicode
+\mkrSecKey keys
+\-ind
+\+rec 
+\fldPriKey ର୍କୋ
+\fldSecKey r x k o
+\-rec
+\+keySearch 
+\match_char p
+\-keySearch
+\+keyInsert 
+\fldPri କଁ
+\MatchWhole
+\match_char p
+\-keyInsert
+\-wnd
+\-wndlst
+\-db
+
+\-dblst
+\+Find 
+\match_char p
+\+ftxlst 
+\-ftxlst
+\-Find
+\AmbigBoxLeft 0
+\AmbigBoxTop 20
+\-ShProjectSettings
